@@ -675,7 +675,7 @@ footer .lower .right-side {
 }
 @media (max-width: 550px) {
   * {
-    cursor: auto !important;
+    cursor: default !important;
     -webkit-user-select: none !important;
        -moz-user-select: none !important;
             user-select: none !important;

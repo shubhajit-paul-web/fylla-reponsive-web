@@ -779,7 +779,7 @@ footer {
 
 @media (max-width: 550px) {
     * {
-        cursor: auto !important;
+        cursor: default !important;
         user-select: none !important;
     }
 }
