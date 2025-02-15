@@ -777,4 +777,11 @@ footer {
     }
 }
 
+@media (max-width: 550px) {
+    * {
+        cursor: auto !important;
+        user-select: none !important;
+    }
+}
+
 // Created by: Shubhajit Paul
