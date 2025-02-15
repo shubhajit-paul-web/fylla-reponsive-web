@@ -673,8 +673,9 @@ footer .lower .right-side {
     border-bottom: none;
   }
 }
-@media (max-width: 550px) {
+@media (max-width: 500px) {
   * {
+    -webkit-tap-highlight-color: transparent;
     cursor: default !important;
     -webkit-user-select: none !important;
        -moz-user-select: none !important;
